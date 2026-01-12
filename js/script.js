@@ -28,6 +28,6 @@ if (lamp.src.includes("white_lamp.png")) {
     bg.classList.add("bg-dark");
     textLight.classList.remove("text-danger");
     textLight.classList.add("text-white")
-    textLight.innerHTML = "Hai il coraggio di cliccare?"
+    textLight.innerHTML = "Ce l'hai il coraggio di cliccare?"
 }
 })
