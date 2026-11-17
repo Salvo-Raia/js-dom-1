@@ -30,8 +30,8 @@ Extend the basic functionality to allow the user to switch the light bulb on and
 
 The interaction must alternate with each button click:
 
-- **First click:** the light bulb turns on and the button label changes to `"Turn Off"`.
-- **Second click:** the light bulb turns off and the button label changes to `"Turn On"`.
+- **First click:** the light bulb turns on and the button label changes to "Turn Off".
+- **Second click:** the light bulb turns off and the button label changes to "Turn On".
 - **Subsequent clicks:** the same behavior continues alternately.
 
 To implement this bonus, you may find the JavaScript string method `includes()`.
