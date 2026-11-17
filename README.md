@@ -1,6 +1,8 @@
-![Boolean Tech Academy](https://img.shields.io/badge/Boolean_Tech_Academy-001632?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Boolean_Tech_Academy-1565C0?style=for-the-badge)
 
-# 🎓 Exercise 24/50 - First Steps with the DOM
+# 🎓 Exercise 24/50: First Steps with the DOM
+
+Creating an interactive light bulb toggle using JavaScript and the DOM, handling click events to dynamically switch images and update button labels.
 
 ## 📌 Project Overview
 
@@ -22,7 +24,7 @@ The page must display:
 
 When the user clicks the button, the light bulb must turn on by replacing the original image with the **switched-on light bulb** image, also provided in the attachments.
 
-## ⭐ Bonus - Turn On & Turn Off
+### ⭐ Bonus
 
 Extend the basic functionality to allow the user to switch the light bulb on and off.
 
@@ -52,4 +54,4 @@ To implement this bonus, you may find the JavaScript string method `includes()`.
 
 ## ©️ Credits
 
-Exercise assigned by **Boolean Tech Academy** as part of the Web Development course - Class 152 - Year 2025-2026
+Exercise assigned by **Boolean Tech Academy** as part of the Web Development course (Class 152, A.Y. 2025–2026).
