@@ -8,7 +8,7 @@ Creating an interactive light bulb toggle using JavaScript and the DOM, handling
 
 | Repository | Project | Category | Main Focus | Exercise |
 |:--|:--|:--|:--|:--|
-| js-dom-1 | First Steps with the DOM | Exercise | JavaScript, DOM manipulation & Event handling | 24/50 |
+| js-dom-1 | First Steps with the DOM | Exercise | JavaScript, DOM manipulation, event handling | 24/50 |
 
 ## Assignment
 
